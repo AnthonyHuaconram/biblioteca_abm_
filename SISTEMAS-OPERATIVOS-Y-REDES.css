@@ -1,0 +1,163 @@
+ .u-section-1 {
+  background-image: url("images/sistemas.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1113px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Ballet 16pt";
+  margin: 19px auto 0;
+}
+
+.u-section-1 .u-list-1 {
+  width: 369px;
+  margin: 19px auto 0 312px;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 289px;
+  grid-template-columns: 100%;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 649px;
+  height: auto;
+  width: 274px;
+  background-image: linear-gradient(#fef9e6, #adf6f2);
+  margin: -289px auto 60px 19px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 12px 11px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 0 19px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-5 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-6 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-7 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-8 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-9 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+.u-section-1 .u-btn-10 {
+  background-image: none;
+  font-family: "RocknRoll One";
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 918px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 25px;
+    margin-right: 13px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 703px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 50% 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 527px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-left: 171px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 332px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+}
